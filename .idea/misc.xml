@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dileep/AndroidStudioProjects/MemeXI/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Dileep/AndroidStudioProjects/MemeXI/app/src/main/res/drawable/border.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Dileep/AndroidStudioProjects/MemeXI/app/src/main/res/drawable/custom_button.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Dileep/AndroidStudioProjects/MemeXI/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Dileep/AndroidStudioProjects/MemeXI/app/src/main/res/drawable/rounded_edit_box.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Dileep/AndroidStudioProjects/MemeXI/app/src/main/res/drawable/transbackground.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Dileep/AndroidStudioProjects/MemeXI/app/src/main/res/layout/activity_home_page.xml" value="0.1" />
+        <entry key="..\:/Users/Dileep/AndroidStudioProjects/MemeXI/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Dileep/AndroidStudioProjects/MemeXI/app/src/main/res/layout/news_single.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Dileep/AndroidStudioProjects/MemeXI/app/src/main/res/menu/menu_basic.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Dileep/AndroidStudioProjects/MemeXI/app/src/main/res/xml/rounded_edit_box.xml" value="0.1" />
+        <entry key="..\:/Users/Dileep/AndroidStudioProjects/MemeXI/app/src/main/res/xml/single_news.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MemeXI</string>
+    <string name="welcome_to_the_world_of_memes">Welcome to the World of Memes</string>
+    <string name="sign_in">Sign In</string>
+    <string name="name_or_email">Name Or Email</string>
+    <string name="phone_no">Phone No</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="create_meme">Create Meme</string>
+    <string name="share">Share</string>
+    <string name="about_us">About Us</string>
+    <string name="rate_us">Rate us</string>
+    <string name="settings">settings</string>
+    <string name="my_profile">My Profile</string>
+    <string name="source">Source</string>
+    <string name="author_here">Author Here</string>
+    <string name="headline_here">Headline_Here</string>
+    <string name="headline">HeadLine</string>
+</resources>
